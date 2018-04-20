@@ -2,7 +2,7 @@
 #include<cs50.h>
 
 bool isPrime(int);
-int sumPrimes(int);
+int sumPrime(int);
 
 int main(void)
 {
